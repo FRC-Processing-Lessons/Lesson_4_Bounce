@@ -19,3 +19,17 @@ blueprint for a moveable Circle object.
 */
 
 /* ------------- ALL CODE GOES BELOW HERE --------------- */
+
+Rectangle rect1;
+Circle circ1;
+
+void setup(){
+  fullScreen();
+  background(0);
+  
+}
+
+void draw(){
+  background(0);
+  
+}
